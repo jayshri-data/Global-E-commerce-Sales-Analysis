@@ -161,27 +161,11 @@ Based on the analysis, the following recommendations can be considered:
 
 ### Dashboard Overview
 
-![Dashboard Overview](Dashboard_Overview.png)
 
 ### Dashboard Details
 
-![Dashboard Details](Dashboard_Details.png)
 
 ---
-
-## 📂 Project Files
-
-The repository contains the following project files:
-
-```text
-Global-Ecommerce-Sales-Analysis/
-│
-├── README.md
-├── Global_E-commerce_Sales_Dashboard.pbix
-├── Dashboard_Overview.png
-└── Dashboard_Details.png
-```
-
 ### Power BI File
 
 The `.pbix` file contains the complete Power BI report, including the data model, calculations, filters, and dashboard visuals.
