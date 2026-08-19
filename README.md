@@ -1,5 +1,4 @@
 # Global E-commerce Sales Analysis
-# Global E-commerce Sales Analysis
 
 ## 📊 Project Overview
 
@@ -214,13 +213,5 @@ The dashboard provides a simple way to understand sales, profit, products, payme
 This project also helped me develop practical skills in **data cleaning, data analysis, visualization, and business reporting**.
 
 ---
-
-## 👩‍💻 Author
-
-**Jayshri**
-
-Computer Engineer | Technology Enthusiast
-
-📍 Pune, Maharashtra, India
 
 🔗 GitHub: [jayshri-data](https://github.com/jayshri-data)
